@@ -29,3 +29,7 @@ Create, Read, Update and Delete
 Quesry Languages for API:
 -------------------------
 Graphql
+
+---------------------------------
+Devops
+Deployment
