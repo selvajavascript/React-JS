@@ -5,3 +5,5 @@ Step-1: Setting Developers Tools
 Step-2: Node JS (Runtime Environment)
 
 v8Engine
+
+JSX = HTML + Javascript
