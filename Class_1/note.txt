@@ -34,3 +34,7 @@ Graphql
 Devops - CI/CD
 Deployment
 Docker - Containerazation
+
+---------------------------------
+Modern Javascript (Es6,Es7)
+ReactJS - Github
