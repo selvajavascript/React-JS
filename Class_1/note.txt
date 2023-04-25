@@ -1,0 +1,13 @@
+Javascript
+----------
+let
+const
+var
+functions()
+arrow functions()
+oops
+ -class
+array
+string
+templates
+import and export
