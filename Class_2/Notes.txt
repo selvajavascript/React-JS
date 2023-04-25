@@ -1,1 +1,5 @@
 Javascript
+
+Step-1: Setting Developers Tools
+        VS Code
+Step-2: Node JS
