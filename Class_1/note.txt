@@ -21,3 +21,7 @@ Interview:
 ServerSide:
 -----------
 Firebase
+
+CRUD:
+-----
+Create, Read, Update and Delete
