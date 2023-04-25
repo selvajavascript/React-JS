@@ -12,6 +12,12 @@ string
 templates
 import and export
 
+Interview:
+----------
 1.React is Unserinterface Library
 2.Component Based - Resuable
 3.Perfomance
+
+ServerSide:
+-----------
+Firebase
