@@ -10,3 +10,4 @@ let mylogin1 = ()=>{
     console.log("I am a Arrow Function()");
 }
 mylogin1()
+*/
