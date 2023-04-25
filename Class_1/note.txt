@@ -31,5 +31,6 @@ Quesry Languages for API:
 Graphql
 
 ---------------------------------
-Devops
+Devops - CI/CD
 Deployment
+Docker - Containerazation
