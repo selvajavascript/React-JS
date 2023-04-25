@@ -35,6 +35,14 @@ Devops - CI/CD
 Deployment
 Docker - Containerazation
 
----------------------------------
+In Resume Title (3 Year ReactJs Front End Developer)
+----------------------------------------------------
 Modern Javascript (Es6,Es7)
 ReactJS - Github
+Redux
+RestAPI
+JSON Server
+Github
+Docker
+Devops
+Graphql
