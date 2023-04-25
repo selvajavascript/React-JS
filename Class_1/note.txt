@@ -25,3 +25,7 @@ Firebase
 CRUD:
 -----
 Create, Read, Update and Delete
+
+Quesry Languages for API:
+-------------------------
+Graphql
